@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://victorbrunacio.vercel.app](https://victorbrunacio.vercel.app)
-
 - 📞 My number **+55 21 98999-0291**
 
 - 📫 How to reach me **afterisbest@gmail.com**
