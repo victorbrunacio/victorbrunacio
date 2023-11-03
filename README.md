@@ -6,6 +6,6 @@
 
 - 📞 My number **+55 21 98999-0291**
 
-- 📫 How to reach me **victorworkdeveloper@gmail.com
-**
+- 📫 How to reach me **victorworkdeveloper@gmail.com**
 
+- 💻 My website **https://victorbrunacio.vercel.app/**
